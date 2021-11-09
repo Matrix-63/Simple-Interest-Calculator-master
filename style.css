@@ -1,14 +1,17 @@
+/* Body with font family, and background colors */
 body {
 	background-color:black;
 	font-family:arial;
 	color:white
 }
 
+/* Text header fontfamily, and color */
 h1{
 	color:grey;
 	font-family:verdana
 }
 
+/* This section for the main div with assingned size and colors */
 .maindiv {
     background-color: #ffffff;
     color: #000000;
@@ -19,7 +22,7 @@ h1{
     margin-right: auto;
 }
 
-
+/* This section for the output in card content e.g. compute, principal and years */
 .contents {
     margin-left: 80px;
 }
@@ -53,6 +56,7 @@ table td {
     width: 120px;
 }
 
+/* This will highlite the interst rate outputed result in card */
 .highlight {
     background-color: #FFFF00;
 }

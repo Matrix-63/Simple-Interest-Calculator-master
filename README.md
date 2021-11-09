@@ -55,7 +55,7 @@ function updateRate()
 <br>
 
 ### Test the app
-Tested the app all functions works correctly and the ouput results shows the correct results.
+Tested the app all functions works correctly and the output results shows the correct results.
 
 <br>
 

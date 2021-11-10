@@ -1,5 +1,6 @@
-# Simple-Interest-Calculator-master
-This readme file created according to the Simple Interest Calculater Hands-On Lab and completed the project as per requirements as follow:
+# Simple Interest Calculator master
+This readme file created according to the Simple Interest Calculater Hands-On Lab. 
+Introduction to Cloud Development with HTML, CSS, and JavaScript, and completed the project as per requirements as follow:
 
 <br>
 

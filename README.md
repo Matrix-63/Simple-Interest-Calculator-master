@@ -16,7 +16,7 @@ This readme file created according to the Simple Interest Calculater Hands-On La
 
 ## CSS
 ### Modifyed the CSS File
-1. Seted the body color to 'black', font to arial and font color to white and the <h1> color to 'grey' and font to verdana.
+1. Seted the body color to 'black', font to arial and font color to white and the h1, and color to 'grey' and font to verdana.
 2. Created an entry for class 'maindiv', and Set the background color to white, font color to black, width to 300 pixels, and padding to 20px in the maindiv class.
 3. Set the border radius to 25 px, and aligned the div to the center of the page. And completed the class as follow
 

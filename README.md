@@ -34,7 +34,7 @@ This readme file created according to the Simple Interest Calculater Hands-On La
 
 <br>
 
-## CSS
+## JavaScript
 ### Modifyed the JavaScript File
 
 1. Created a variables called 'principal', "rate" and "years" and assigned to it the value of the input elements, also added to the html button onclick to attribute set to "compute()".
